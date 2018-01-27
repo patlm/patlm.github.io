@@ -5,5 +5,10 @@ body {
 }
 
 .nameHeading {
-  font-size: 120%;
+  font-size: 180%;
+}
+
+.navigation {
+  list-style: none;
+  display: inline;
 }
