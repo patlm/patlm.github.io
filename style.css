@@ -10,5 +10,8 @@ body {
 
 .navigation {
   list-style: none;
+}
+
+.navigation li {
   display: inline;
 }
