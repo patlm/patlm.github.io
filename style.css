@@ -4,14 +4,32 @@ body {
   text-align: center;
 }
 
+.content {
+  width: 1000px;
+  height: 1000px;
+  margin: auto;
+  text-align: left;
+}
+
 .nameHeading {
   font-size: 350%;
   width: 100%;
 }
 
-h2 {
-  font-size: 200%;
+.content h2 {
+  text-align: center;
+  font-size: 220%;
+  margin-top: 50px;
 }
+
+p {
+  font-size: 120%;
+}
+
+p li {
+
+}
+
 
 .nav {
   position: relative;
