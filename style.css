@@ -9,6 +9,10 @@ body {
   width: 100%;
 }
 
+h2 {
+  font-size: 200%;
+}
+
 .nav {
   position: relative;
   list-style: none;
