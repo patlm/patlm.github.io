@@ -6,7 +6,6 @@ body {
 
 .content {
   width: 1000px;
-  height: 1000px;
   margin: auto;
   text-align: left;
 }
@@ -29,7 +28,6 @@ p {
 p li {
 
 }
-
 
 .nav {
   position: relative;
