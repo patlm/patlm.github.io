@@ -29,6 +29,10 @@ p li {
 
 }
 
+dl {
+  font-size: 120%;
+}
+
 .nav {
   position: relative;
   list-style: none;
