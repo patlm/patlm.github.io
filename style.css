@@ -34,15 +34,10 @@ dl {
   font-size: 140%;
 }
 
-.social a {
-  color: black;
-  font-size: 1.25em;
-}
-
 .nav {
   position: relative;
   list-style: none;
-  margin: 30px 40px 40px 40px;
+  margin: 40px;
   padding: 0;
   text-align: center;
 }
