@@ -34,6 +34,10 @@ dl {
   font-size: 140%;
 }
 
+dt {
+  margin-top: 15px;
+}
+
 .nav {
   position: relative;
   list-style: none;
