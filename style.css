@@ -17,7 +17,8 @@ body {
 }
 
 .content h2 {
-  text-align: center;
+  text-align: left;
+  margin-left: 5%;
   font-size: 220%;
   margin-top: 50px;
 }
@@ -104,4 +105,71 @@ dt {
 
 .iconLinks a:visited {
   color: #000;
+}
+
+#myImage {
+  float: right;
+  margin-left: 15px;
+  margin-top: -40px;
+}
+
+#aboutParagraph {
+  margin-top: 20px;
+}
+
+@media (max-width: 1050px) {
+  .content {
+    width: 80%;
+  }
+
+  .nav:before, .nav:after {
+      width: 15%;
+  }
+
+  .nav:before {
+      margin-left: -15%;
+  }
+}
+
+@media (max-width: 650px) {
+  #myImage {
+    float: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 550px) {
+  .nav:before, .nav:after {
+      content: none;
+  }
+
+  .content {
+    width: 95%;
+  }
+
+  .nav {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    border-top: 3px solid #000;
+    border-bottom: 3px solid #000;
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+
+  .nav li {
+    display: block;
+    font-size: 200%;
+  }
+
+  p {
+    font-size: 150%;
+  }
+
+  dl {
+    font-size: 140%;
+  }
 }
