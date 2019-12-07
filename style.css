@@ -117,30 +117,6 @@ dt {
   margin-top: 20px;
 }
 
-@media (max-width: 1050px) {
-  .content {
-    width: 80%;
-  }
-
-  .nav:before, .nav:after {
-      width: 15%;
-  }
-
-  .nav:before {
-      margin-left: -15%;
-  }
-}
-
-@media (max-width: 650px) {
-  #myImage {
-    float: none;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 20px;
-  }
-}
-
 @media (max-width: 550px) {
   .nav:before, .nav:after {
       content: none;
@@ -171,5 +147,29 @@ dt {
 
   dl {
     font-size: 140%;
+  }
+}
+
+@media (max-width: 650px) {
+  #myImage {
+    float: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 1050px) and (min-width: 550px) {
+  .content {
+    width: 80%;
+  }
+
+  .nav:before, .nav:after {
+      width: 15%;
+  }
+
+  .nav:before {
+      margin-left: -15%;
   }
 }
