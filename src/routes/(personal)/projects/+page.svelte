@@ -111,7 +111,7 @@
 			Web app allowing TAs to intuitively manage the queue of students with questions during TA
 			office hours
 		</li>
-		<li>Created as part of CornHacks 2021 where it placed 2nd out of 21 team</li>
+		<li>Created as part of CornHacks 2021 where it placed 2nd out of 21 teams</li>
 		<li>
 			A <a href="https://tada-cue.web.app/" target="_blank">live version</a> is hosted on Firebase
 			and the <a href="https://github.com/LukeAVanDrie/Cue">code repo</a> is public on GitHub
@@ -130,7 +130,7 @@
 		<li>
 			A way to connect students in the right place at the right time to help their peers in need
 		</li>
-		<li>Created as part of CornHacks 2021 where it placed 3rd out of 20 team</li>
+		<li>Created as part of CornHacks 2021 where it placed 3rd out of 20 teams</li>
 		<li>
 			A <a href="https://do-favor.web.app/" target="_blank">live version</a> is hosted on Firebase
 			and the <a href="https://github.com/JacobSampson/favor">code repo</a> is public on GitHub
