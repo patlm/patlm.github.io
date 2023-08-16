@@ -1,0 +1,1 @@
+import{s as e}from"../chunks/scheduler.1f6706a1.js";import{S as s,i as n}from"../chunks/index.b26dcfac.js";import{j as r}from"../chunks/singletons.7f42639e.js";const a=r("goto");function i(t){return a("/projects/plate-game/policy.html"),[]}class p extends s{constructor(o){super(),n(this,o,i,null,e,{})}}export{p as component};
