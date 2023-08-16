@@ -7,7 +7,7 @@
 	title="Personal Website"
 	subtitle=""
 	dateTag="Jul 2023 - Present"
-	titleIcon="website-icon.png"
+	titleIcon="/website-icon.png"
 	techTags={[techTags.javascript, techTags.svelte, techTags.sveltekit, techTags.typescript]}
 >
 	<ul>
@@ -23,7 +23,7 @@
 	title="Cashister"
 	subtitle=""
 	dateTag="Jan 2017 - Present"
-	titleIcon="cashister-icon.png"
+	titleIcon="/cashister-icon.png"
 	techTags={[techTags.storyboard, techTags.swift, techTags.xcode]}
 >
 	<ul>
@@ -47,7 +47,7 @@
 	title="Plate Game"
 	subtitle=""
 	dateTag="Aug 2022 - Present"
-	titleIcon="plate-game-icon.png"
+	titleIcon="/plate-game-icon.png"
 	techTags={[
 		techTags.expo,
 		techTags.javascript,
@@ -74,7 +74,7 @@
 	title="quick-maps"
 	subtitle=""
 	dateTag="Dec 2021 - Jan 2022"
-	titleIcon="quick-maps-icon.png"
+	titleIcon="/quick-maps-icon.png"
 	techTags={[
 		techTags.chakraui,
 		techTags.firebase,
@@ -103,7 +103,7 @@
 	title="Cue"
 	subtitle=""
 	dateTag="Feb 2021"
-	titleIcon="cue-icon.png"
+	titleIcon="/cue-icon.png"
 	techTags={[techTags.firebase, techTags.javascript, techTags.react]}
 >
 	<ul>
@@ -123,7 +123,7 @@
 	title="Favor"
 	subtitle=""
 	dateTag="Feb 2020"
-	titleIcon="favor-icon.png"
+	titleIcon="/favor-icon.png"
 	techTags={[techTags.angular, techTags.firebase, techTags.javascript, techTags.typescript]}
 >
 	<ul>

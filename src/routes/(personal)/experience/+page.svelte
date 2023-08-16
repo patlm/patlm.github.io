@@ -7,7 +7,7 @@
 	title="Box"
 	subtitle="Software Engineer"
 	dateTag="Aug 2022 - Present"
-	titleIcon="box-icon.png"
+	titleIcon="/box-icon.png"
 	techTags={[
 		techTags.git,
 		techTags.java,
@@ -32,7 +32,7 @@
 	title="Horizontal Boring & Tunneling"
 	subtitle="Application Developer"
 	dateTag="May 2018 - Aug 2022"
-	titleIcon="hbt-icon.png"
+	titleIcon="/hbt-icon.png"
 	techTags={[techTags.android, techTags.git, techTags.kotlin]}
 >
 	<ul>
@@ -45,7 +45,7 @@
 	title="Hudl | Design Studio"
 	subtitle="Development Manager"
 	dateTag="Aug 2021 - May 2022"
-	titleIcon="hudl-icon.png"
+	titleIcon="/hudl-icon.png"
 	techTags={[techTags.git, techTags.javascript, techTags.reactnative, techTags.typescript]}
 >
 	<ul>
@@ -64,7 +64,7 @@
 	title="Box"
 	subtitle="Software Engineer Intern"
 	dateTag="May 2021 - Aug 2021"
-	titleIcon="box-icon.png"
+	titleIcon="/box-icon.png"
 	techTags={[techTags.git, techTags.graphql, techTags.javascript]}
 >
 	<ul>
@@ -84,7 +84,7 @@
 	title="UNL"
 	subtitle="Undergradudate Teaching Assistant"
 	dateTag="Aug 2020 - May 2021"
-	titleIcon="nebraska-icon.jpg"
+	titleIcon="/nebraska-icon.jpg"
 	techTags={[techTags.git, techTags.java, techTags.studentchoice]}
 >
 	<ul>
@@ -103,7 +103,7 @@
 	title="Nelnet"
 	subtitle="Software Engineer Intern"
 	dateTag="May 2020 - Jan 2021"
-	titleIcon="nelnet-icon.png"
+	titleIcon="/nelnet-icon.png"
 	techTags={[
 		techTags.dotnet,
 		techTags.angular,
@@ -129,7 +129,7 @@
 	title="CSG"
 	subtitle="Software Development Intern"
 	dateTag="Jun 2019 - Aug 2019"
-	titleIcon="csg-icon.png"
+	titleIcon="/csg-icon.png"
 	techTags={[techTags.git, techTags.ruby, techTags.rundeck]}
 >
 	<ul>

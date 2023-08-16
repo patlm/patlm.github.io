@@ -6,7 +6,7 @@
 	title="University of Nebraska-Lincoln"
 	subtitle="B.Sc. Software Engineering | GPA 3.97"
 	dateTag="Aug 2018 - May 2022"
-	titleIcon="nebraska-icon.jpg"
+	titleIcon="/nebraska-icon.jpg"
 >
 	<ul>
 		<li>Minors in Business and Mathematics</li>

@@ -8,7 +8,7 @@
 
 <nav>
 	<h1>Patrick <br /> Murphy</h1>
-	<img src="pic.jpg" alt="Profile" width="150" height="150" />
+	<img src="/pic.jpg" alt="Profile" width="150" height="150" />
 	<ul>
 		<NavLinkItem linkUrl="/" name="About" />
 		<NavLinkItem linkUrl="/experience" name="Experience" />

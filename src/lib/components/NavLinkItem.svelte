@@ -5,7 +5,7 @@
 	export let name: string;
 </script>
 
-<li class:selected={$page.url.pathname === linkUrl}>
+<li class:selected={$page.url.pathname === `${linkUrl}/` || $page.url.pathname === linkUrl}>
 	<a href={linkUrl}>{name}</a>
 </li>
 
