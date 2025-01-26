@@ -54,6 +54,11 @@ export default {
 		link: 'https://developer.mozilla.org/en-US/docs/Web/JavaScript',
 		color: 'salmon'
 	},
+	jenkins: {
+		name: 'Jenkins',
+		link: 'https://www.jenkins.io/',
+		color: 'deep-red'
+	},
 	jsonnet: {
 		name: 'Jsonnet',
 		link: 'https://jsonnet.org/',

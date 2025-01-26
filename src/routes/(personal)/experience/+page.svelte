@@ -12,6 +12,7 @@
 		techTags.git,
 		techTags.java,
 		techTags.javascript,
+		techTags.jenkins,
 		techTags.jsonnet,
 		techTags.node,
 		techTags.php,
