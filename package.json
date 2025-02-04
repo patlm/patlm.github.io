@@ -10,7 +10,7 @@
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
 		"lint": "prettier --plugin-search-dir . --check . && eslint .",
 		"format": "prettier --plugin-search-dir . --write .",
-		"build:prod": "yarn build && rm -rf ./docs && mkdir ./docs && cp -r ./build/* ./docs/"
+		"build:prod": "yarn build && rm -rf ./docs && mkdir ./docs && cp -r ./build/* ./docs/ && touch ./docs/.nojekyll"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^2.0.0",
