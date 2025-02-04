@@ -17,14 +17,19 @@
 		techTags.node,
 		techTags.php,
 		techTags.react,
+		techTags.springboot,
 		techTags.typescript
 	]}
 >
 	<ul>
-		<li>Software engineer on the home web product team</li>
 		<li>
-			Responsible for <a href="https://www.box.com/" target="_blank">Box</a> core web app and the file
-			preview experience
+			Developed and maintained front-end features (React) and back-end components (PHP, Java, Node) for the core web app and file preview experience, serving millions of daily active users
+		</li>
+		<li>
+			Shipped full-stack solution enabling compliance for high-value financial services accounts, meeting critical deadline
+		</li>
+		<li>
+			Enhanced front-end observability by expanding instrumentation and leading evaluation of a real user monitoring tool
 		</li>
 	</ul>
 </ExperienceCard>
@@ -37,8 +42,12 @@
 	techTags={[techTags.android, techTags.git, techTags.kotlin]}
 >
 	<ul>
-		<li>Created and maintain internal company Android application used by over 80 employees</li>
-		<li>Summer 2018 and part-time during school</li>
+		<li>
+			Created and maintain internal company Android application that is used by 100+ field employees
+		</li>
+		<li>
+			Automated contact updates and digitalized field workflows improving collaboration and eliminating mail wait time
+		</li>
 	</ul>
 </ExperienceCard>
 
@@ -47,16 +56,14 @@
 	subtitle="Development Manager"
 	dateTag="Aug 2021 - May 2022"
 	titleIcon="/hudl-icon.png"
-	techTags={[techTags.git, techTags.javascript, techTags.reactnative, techTags.typescript]}
+	techTags={[techTags.ffmpeg, techTags.git, techTags.javascript, techTags.reactnative, techTags.typescript]}
 >
 	<ul>
 		<li>
-			Worked as a team of 5 to design and create a MVP for a new video recording-centric mobile app
+			Led technical development of React Native app enabling athletes to create highlight videos in recruiter-friendly format
 		</li>
 		<li>
-			Led development of the React Native application by configuring automated formatting, linting,
-			and pipelines for the development environment; unblocking other developers; and collaborating
-			with team PM to define blocks of work
+			Configured project setup (e.g. linting, testing, and pipelines), unblocked developers, and prioritized tasks with PM
 		</li>
 	</ul>
 </ExperienceCard>
@@ -70,32 +77,27 @@
 >
 	<ul>
 		<li>
-			Designed and implemented a GraphQL domain for Box’s notification center service to sit between
-			the existing REST API and its clients using technology based on Apollo Server and Hapi in
-			JavaScript
+			Engineered GraphQL domain for a notification center service, streamlining queries and enabling future scalability
 		</li>
 		<li>
-			Collaborated with engineers to determine best-practice patterns for Box’s GraphQL initiative
-			as it is expanded
+			Collaborated with engineers to determine best-practice patterns for Box’s GraphQL initiative as it is expanded
 		</li>
 	</ul>
 </ExperienceCard>
 
 <ExperienceCard
 	title="UNL"
-	subtitle="Undergradudate Teaching Assistant"
+	subtitle="Undergraduate Teaching Assistant"
 	dateTag="Aug 2020 - May 2021"
 	titleIcon="/nebraska-icon.jpg"
 	techTags={[techTags.git, techTags.java, techTags.studentchoice]}
 >
 	<ul>
 		<li>
-			Fall 2020: Graded, provided feedback, and hosted office hours to assist ~40 students in
-			introductory CS course
+			Fall 2020: Hosted office hours, provided feedback, and graded to support ~40 students in introductory CS course
 		</li>
 		<li>
-			Spring 2021: Graded, designed labs, and mentored teams for a team project-based software
-			engineering course
+			Spring 2021: Mentored 6 teams of ~5, designed labs, and graded for project-based software engineering course
 		</li>
 	</ul>
 </ExperienceCard>
@@ -120,8 +122,7 @@
 			Completed feature-driven and client-requested changes to C# .NET Web API and Angular front-end
 		</li>
 		<li>
-			Increased test coverage by approximately 15% for Angular based front-end services and
-			components
+			Increased test coverage by approximately 15% for Angular based front-end services and components
 		</li>
 	</ul>
 </ExperienceCard>
@@ -134,7 +135,7 @@
 	techTags={[techTags.git, techTags.ruby, techTags.rundeck]}
 >
 	<ul>
-		<li>Migrated automated jobs to Ruby version-controlled code representing Rundeck jobs</li>
+		<li>Reduced release complexity by migrating legacy automations to Ruby version-controlled Rundeck jobs</li>
 	</ul>
 </ExperienceCard>
 

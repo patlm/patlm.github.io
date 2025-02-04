@@ -7,7 +7,7 @@
 		<p>👋🏻 Hi, my name is Patrick!</p>
 		<ul>
 			<li>
-				I'm currently living in the San Fransico Bay Area where I work at Box as a Software Engineer
+				I'm currently living in the San Francisco Bay Area where I work at Box as a Software Engineer
 				📦
 			</li>
 			<li>

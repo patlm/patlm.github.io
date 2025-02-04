@@ -29,6 +29,11 @@ export default {
 		link: 'https://expo.dev/',
 		color: 'new-blue'
 	},
+	ffmpeg: {
+		name: 'ffmpeg',
+		link: 'https://www.ffmpeg.org/',
+		color: 'light-green'
+	},
 	firebase: {
 		name: 'Firebase',
 		link: 'https://firebase.google.com/',
@@ -84,6 +89,11 @@ export default {
 		link: 'https://www.php.net/',
 		color: 'plum'
 	},
+	python: {
+		name: 'Python',
+		link: 'https://www.python.org/',
+		color: 'dark-blue'
+	},
 	react: {
 		name: 'React',
 		link: 'https://react.dev/',
@@ -103,6 +113,11 @@ export default {
 		name: 'Rundeck',
 		link: 'https://www.rundeck.com/',
 		color: 'honeydew'
+	},
+	springboot: {
+		name: 'Spring Boot',
+		link: 'https://spring.io/projects/spring-boot',
+		color: 'neutral-green'
 	},
 	sqlite: {
 		name: 'SQLite',

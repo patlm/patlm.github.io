@@ -117,3 +117,15 @@
 .deep-red {
 	background-color: #6d1616;
 }
+
+.dark-blue {
+	background-color: rgb(15, 15, 134);
+}
+
+.neutral-green {
+	background-color: rgb(13, 92, 13);
+}
+
+.light-green {
+	background-color: rgb(102, 196, 102);
+}
