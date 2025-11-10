@@ -7,8 +7,7 @@
 		<p>👋🏻 Hi, my name is Patrick!</p>
 		<ul>
 			<li>
-				I'm currently living in the San Francisco Bay Area where I work at Box as a Software Engineer
-				📦
+				I'm a Software Engineer based in Lincoln, NE 🌽 (previously in SF Bay Area)
 			</li>
 			<li>
 				In my free time, I enjoy reading, photography, and being active 📚 📷 🏀 🎾 🏃🏻‍♂️ 🚲 🥾 ⛰️

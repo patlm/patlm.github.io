@@ -74,6 +74,16 @@ export default {
 		link: 'https://kotlinlang.org/',
 		color: 'lavender'
 	},
+	langgraph: {
+		name: 'LangGraph',
+		link: 'https://www.langchain.com/langgraph',
+		color: 'green'
+	},
+	nestjs: {
+		name: 'NestJS',
+		link: 'https://nestjs.com/',
+		color: 'red'
+	},
 	nextjs: {
 		name: 'Next.js',
 		link: 'https://nextjs.org/',

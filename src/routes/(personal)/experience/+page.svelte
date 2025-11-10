@@ -4,9 +4,37 @@
 </script>
 
 <ExperienceCard
+	title="Lattice"
+	subtitle="Software Engineer"
+	dateTag="Jun 2025 - Nov 2025"
+	titleIcon="/lattice-icon.png"
+	techTags={[
+		techTags.git,
+		techTags.javascript,
+		techTags.langgraph,
+		techTags.nestjs,
+		techTags.node,
+		techTags.react,
+		techTags.typescript,
+	]}
+	>
+	<ul>
+		<li>
+			Built RAG-based tool within LangGraph AI assistant (20+ tools) to deliver survey data insights, owning question-level insights while iterating on prompt structures to reduce hallucinations and token costs across two production releases
+		</li>
+		<li>
+			Extended AWS Bedrock integration to support multiple concurrent knowledge bases in TypeScript monorepo, allowing experimentation with different foundational models and chunking/embedding strategies
+		</li>
+		<li>
+			Delivered production features including beta feedback mechanism (React) and document sync safeguards (NestJS), reducing third-party integration failures and enabling data-driven product iteration
+		</li>
+	</ul>
+</ExperienceCard>
+
+<ExperienceCard
 	title="Box"
 	subtitle="Software Engineer"
-	dateTag="Aug 2022 - Present"
+	dateTag="Aug 2022 - Jun 2025"
 	titleIcon="/box-icon.png"
 	techTags={[
 		techTags.git,
@@ -30,6 +58,9 @@
 		</li>
 		<li>
 			Enhanced front-end observability by expanding instrumentation and leading evaluation of a real user monitoring tool
+		</li>
+		<li>
+			Partnered with product and design to revamp file preview error messaging across all file types, improving UX consistency and reducing support volume
 		</li>
 	</ul>
 </ExperienceCard>

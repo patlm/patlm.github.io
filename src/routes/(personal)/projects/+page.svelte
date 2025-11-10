@@ -17,6 +17,13 @@
 		<li>2017: Designed and created an iPad app for the concession stand at my high school</li>
 		<li>2019: Re-designed with an updated user experience and color scheme</li>
 		<li>2023: Released an iPhone version of the app</li>
+		<li>2025: Added Sales History features:
+			<ul>
+				<li>Browse individual sales transactions by date range</li>
+				<li>Track quantities sold per item over any time period</li>
+				<li>Export sales history to CSV for any selected date range</li>
+			</ul>
+		</li>
 		<li>
 			Available on the <a
 				href="https://apps.apple.com/us/app/cashister/id1272464133"
