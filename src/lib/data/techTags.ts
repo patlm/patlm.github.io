@@ -159,6 +159,11 @@ export default {
 		link: 'https://www.swift.org/',
 		color: 'bright-orange'
 	},
+	swiftUI: {
+		name: 'SwiftUI',
+		link: 'https://developer.apple.com/swiftui/',
+		color: 'in-between-green'
+	},
 	typescript: {
 		name: 'TypeScript',
 		link: 'https://www.typescriptlang.org/',

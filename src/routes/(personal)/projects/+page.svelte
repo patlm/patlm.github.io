@@ -3,6 +3,17 @@
 	import techTags from '$lib/data/techTags';
 </script>
 
+<ExperienceCard 
+	title="Farther: Workout Goal Tracker"
+	subtitle=""
+	dateTag="Feb 2026"
+	titleIcon='/farther-icon.png'
+	techTags={[techTags.swift, techTags.swiftUI, techTags.xcode]}>
+	<ul>
+		<li>Available on the <a href="https://apps.apple.com/us/app/farther-workout-goal-tracker/id6759848500" target="_blank">iOS App Store</a></li>
+	</ul>
+</ExperienceCard>
+
 <ExperienceCard
 	title="Cashister"
 	subtitle=""
