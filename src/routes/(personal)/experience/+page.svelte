@@ -4,6 +4,29 @@
 </script>
 
 <ExperienceCard
+	title="Fiserv"
+	subtitle="Senior Software Engineer"
+	dateTag="Feb 2025 - Present"
+	titleIcon="/fiserv-icon.png"
+	techTags={[
+		techTags.git,
+		techTags.javascript,
+		techTags.node,
+		techTags.react,
+		techTags.typescript
+	]} 
+	>
+	<ul>
+		<li>
+			Eliminating intermittent test failures affecting ~50% of test suite by migrating E2E testing infrastructure from Selenium to Playwright
+		</li>
+		<li>
+			Building and modernizing user-facing features across enterprise banking core platforms (React, TypeScript)
+		</li>
+	</ul>
+</ExperienceCard>
+
+<ExperienceCard
 	title="Lattice"
 	subtitle="Software Engineer"
 	dateTag="Jun 2025 - Nov 2025"
