@@ -6,7 +6,7 @@
 <ExperienceCard
 	title="Fiserv"
 	subtitle="Senior Software Engineer"
-	dateTag="Feb 2025 - Present"
+	dateTag="Feb 2026 - Present"
 	titleIcon="/fiserv-icon.png"
 	techTags={[
 		techTags.git,
