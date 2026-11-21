@@ -13,7 +13,8 @@
 		techTags.javascript,
 		techTags.node,
 		techTags.react,
-		techTags.typescript
+		techTags.typescript,
+		techTags.dotnet,
 	]} 
 	>
 	<ul>
